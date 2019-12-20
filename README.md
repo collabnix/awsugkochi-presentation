@@ -36,7 +36,7 @@ docker buildx build --platform linux/arm64,linux/arm/v7 -t ajeetraina/docker-cct
 ```
 
 
-## CLI Tools
+#  CLI Tools
 
 ```
 docker run --rm mplatform/mquery ajeetraina/docker-cctv-raspbian
