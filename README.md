@@ -21,7 +21,7 @@ docker buildx create --name testbuild1
 ```
 
 
-````
+```
 docker buildx inspect --bootstrap
 ```
 
